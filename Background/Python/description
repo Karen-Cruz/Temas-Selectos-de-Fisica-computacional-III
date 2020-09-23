@@ -1,0 +1,12 @@
+La carpeta Python contiene lo siguiente:
+
+    data
+    images
+    1-Introudccion-Python.ipynb
+    2-cotinuacion-python.ipynb
+    3-POO-python.ipynb
+    5-introduccion-pandas.ipynb
+    6-introduccion-matplotlib.ipynb
+
+La carpeta data contiene una base de datos que se usa en el notebook de 6-introduccion-matplotlib.ipynb
+La carpeta images contiene las imagenes que se usan en los notebooks
