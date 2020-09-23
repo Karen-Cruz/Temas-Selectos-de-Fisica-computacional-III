@@ -10,3 +10,5 @@ La carpeta Python contiene lo siguiente:
 
 La carpeta data contiene una base de datos que se usa en el notebook de 6-introduccion-matplotlib.ipynb
 La carpeta images contiene las imagenes que se usan en los notebooks
+
+La base de datos usada en el notebook de pandas se pbtuvo de https://archive.ics.uci.edu/ml/datasets/Superconductivty+Data
