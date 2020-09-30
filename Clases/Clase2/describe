@@ -1,0 +1,6 @@
+Se revisara el tema general de ajustar una recta a un conjunto de muestras generadas. 
+El problema se aborda de diferentes maneras:
+  a) a prueba y error (observando la grafica y observando el valor del residuo)
+  b) usando mínimos cuadrados
+  c) Usando Newton-Raphson
+Se introduce el algoritmo de Gradient Descent
